@@ -8,4 +8,4 @@ img = qrcode.make(data)
 
 type(img)  # qrcode.image.pil.PilImage
 
-img.save('C:/Users/bueno/OneDrive/Área de Trabalho/Aprendendo Python Files/new/qrcode.png')
+img.save('C:/Users/bueno/OneDrive/Área de Trabalho/Aprendendo Python\Qrcode.img Files/new/qrcode.png')
